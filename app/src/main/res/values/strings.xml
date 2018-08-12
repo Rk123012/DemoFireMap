@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoFireMap</string>
+    <string name="askNumber">Select your region and provide your cell number</string>
+</resources>
